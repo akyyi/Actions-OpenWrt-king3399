@@ -1,12 +1,5 @@
 # Actions-OpenWrt-king3399云编译项目
 
-## 固件来源
-
-P大脚本地址：[https://github.com/P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
-
-Lean固件源码地址：[https://github.com/coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
-
-istoreOS源码地址: https://github.com/istoreos
 
 
 ## 固件说明
@@ -34,3 +27,11 @@ istoreOS源码地址: https://github.com/istoreos
 ![22.11](https://raw.githubusercontent.com/zh604131924/Actions-OpenWrt-king3399/main/doc/8.png)
 
 ## 感谢所有为openwrt无私奉献的大佬。
+
+P大脚本地址：[https://github.com/P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+
+Lean固件源码地址：[https://github.com/coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
+
+istoreOS源码地址: https://github.com/istoreos
+
+liuran001插件包地址: [https://github.com/liuran001/openwrt-packages](https://github.com/liuran001/openwrt-packages)
