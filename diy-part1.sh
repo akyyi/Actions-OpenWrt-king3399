@@ -20,4 +20,4 @@
 git clone https://github.com/linkease/istore.git package/istore
 sed -i 's/luci-lib-ipkg/luci-base/g' package/istore/luci/luci-app-store/Makefile
 git clone https://github.com/linkease/istore-ui.git package/istore-ui
-svn co https
+
