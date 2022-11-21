@@ -20,7 +20,7 @@ istoreOS源码地址: https://github.com/istoreos
 
 ## 固件下载
 
-### 点击[Releases](https://github.com/zh604131924/Actions-OpenWrt-king3399/releases) 选择需要的版本
+### [Releases](https://github.com/zh604131924/Actions-OpenWrt-king3399/releases) 
 
 
 ## 固件截图：
