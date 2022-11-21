@@ -18,6 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #echo ' src-git liuran001_packages https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
 git clone https://github.com/linkease/istore.git package/istore
-sed -i 's/luci-lib-ipkg/luci-base/g' package/istore/luci/luci-app-store/Makefile
+#sed -i 's/luci-lib-ipkg/luci-base/g' package/istore/luci/luci-app-store/Makefile
 git clone https://github.com/linkease/istore-ui.git package/istore-ui
-
