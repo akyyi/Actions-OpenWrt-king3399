@@ -10,9 +10,9 @@ istoreOS源码地址: https://github.com/istoreos
 
 
 ## 固件说明
-KING3399 开发板的openwrt-action
+利用github-action编译king3399开发板适用的OpenWrt
 
-跟随lean源码更新自动编译，自用稳定版，默认无wifi。
+跟随lean源码更新自动编译，自用稳定，默认无wifi。
 
 > `管理ip：192.168.1.1 密码：password`
 
