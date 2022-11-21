@@ -8,7 +8,6 @@ Lean固件源码地址：[https://github.com/coolsnowwolf/lede](https://github.c
 
 istoreOS源码地址: https://github.com/istoreos
 
-感谢所有为openwrt无私奉献的大佬。
 
 ## 固件说明
 KING3399 开发板的openwrt-action
@@ -22,7 +21,6 @@ KING3399 开发板的openwrt-action
 ## 固件下载
 
 ### 点击[Releases](https://github.com/zh604131924/Actions-OpenWrt-king3399/releases) 选择需要的版本
-!
 
 
 ## 固件截图：
