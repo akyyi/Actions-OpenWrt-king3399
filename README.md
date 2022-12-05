@@ -6,7 +6,7 @@
 利用GitHub-Actions编译king3399开发板适用的OpenWrt
 
 
-跟随lean源码更新自动编译,
+跟随lean源码更新自动编译, 从gsf666-666复制的调整
 
 
 > `管理ip：192.168.1.1 密码：password`
